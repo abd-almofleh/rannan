@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 =======
+=======
+>>>>>>> 738e0aa2828f75ce1a6d6f21e574dd631ed17f48
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
 # Learn more about .gitignore:
@@ -9,7 +12,10 @@ node_modules
 # Node artifact files
 node_modules/
 dist/
+<<<<<<< HEAD
 assets/voice/*
+=======
+>>>>>>> 738e0aa2828f75ce1a6d6f21e574dd631ed17f48
 
 # Compiled Java class files
 *.class
@@ -52,4 +58,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+<<<<<<< HEAD
 >>>>>>> c075bfa9ce5a4485a78246c79d11d383e7e65615
+=======
+>>>>>>> 738e0aa2828f75ce1a6d6f21e574dd631ed17f48
